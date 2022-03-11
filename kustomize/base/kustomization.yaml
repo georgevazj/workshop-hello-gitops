@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: georgevazj/hello-gitops
-  newTag: 4c17fcff0ef6230eace0aaac34d43929a8fb0c6f
+  newTag: 69df321adcd5f943d76eb521cad0ad72a1d87336
