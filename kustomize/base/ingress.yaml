@@ -4,7 +4,8 @@ metadata:
   name: hello-gitops
 spec:
   rules:
-    - http:
+    - host: "hello-gitops.rkeingresspoc.easycloudpocs.com"
+      http:
         paths:
           - path: /
             pathType: Prefix
